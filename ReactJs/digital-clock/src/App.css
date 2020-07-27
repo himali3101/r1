@@ -1,0 +1,17 @@
+.App{
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  padding-left: 350px ;
+}
+
+.header{
+  display: flex;
+  background-color: rgb(12, 27, 27);
+  color: white;
+  height: 10vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}

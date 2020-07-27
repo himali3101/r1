@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Greet from './Component/Greet'
+import AddEmployee from './Component/AddEmployee'
 
 function App() {
   return (
     <div className="App">
-      <Greet name="Himali" />
+      <AddEmployee />
     </div>
   );
 }
