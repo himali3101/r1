@@ -9,10 +9,10 @@ export function getName(name) {
     return ' ' + name;
 }
 
-export function Greet(props) {
+function Greet() {
     return (
         <div>
-            <h1 style={headingStyle}> Hello {this.getName(props)} </h1>
+            <h1 style={headingStyle}>Hello Himali</h1>
         </div>
     )
 }

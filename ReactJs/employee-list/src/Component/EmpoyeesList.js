@@ -36,7 +36,9 @@ function EmployeeList() {
                 <tr> <th>Name</th> <th>Job</th> </tr>
 
             </table>
-            {employeeList}
+            <div>
+                {employeeList}
+            </div>
 
         </div>
     )
